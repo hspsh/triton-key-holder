@@ -1,0 +1,1 @@
+Convert triton.step to .stl, to have PCB as a reference for the model.
